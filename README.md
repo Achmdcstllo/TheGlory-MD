@@ -11,6 +11,8 @@ TheGlory—MD Multi Device is a automated whatsapp bot created by <a href="https
 
 <P align="center">
 <a href="https://trakteer.id/Achmdcstllo" target="_blank"><img id="wse-buttons-preview" src="https://cdn.trakteer.id/images/embed/trbtn-red-1.png" height="40" style="border:0px;height:40px;" alt="Trakteer Saya"></a>
+
+
 ## ` BUILDPACKS`
 
 ```
